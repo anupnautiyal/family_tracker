@@ -60,7 +60,7 @@ CREATE TABLE enrollment (
 
 -- Data --
 INSERT INTO student (first_name, last_name)
-VALUES ('Jack', 'Bauer');
+VALUES ('Om', 'Patel');
 
 INSERT INTO class (title)
 VALUES ('English Literature'), ('Maths'), ('Physics');
